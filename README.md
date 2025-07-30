@@ -64,6 +64,8 @@ You can access our website via this Link:https://consumewiseai.pythonanywhere.co
 ### 6. Deployment:
 - **PythonAnywhere**: 
    - The application is deployed on PythonAnywhere, the Django application ensuring scalability and accessibility.
+### 6. API: 
+   - Uses openFoodFacts API to fetch the data.
 # Future Scope
 
 1. **Enhanced AI Accuracy and Speed**:
@@ -99,4 +101,4 @@ You can access our website via this Link:https://consumewiseai.pythonanywhere.co
 6. **Receive Your Personalized Analysis**:
    - The model will take around 10-12 seconds to generate a personalized health analysis based on your profile.
 
-**Note**: For the best results, make sure to enter only the product name in the text input field.
+**Note**: For the best results, make sure to enter only the product name in the text input field. 

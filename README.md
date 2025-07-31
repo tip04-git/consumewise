@@ -2,7 +2,7 @@
 
 **ConsumeWise** is an AI-powered health analysis platform that evaluates packaged food products for nutritional quality, harmful ingredients, dietary compatibility, and brand claim accuracy. Designed to promote conscious consumer choices, ConsumeWise tailors its insights to general users or personalized health profiles — enabling informed decisions in seconds.
 
-🌐 **Live App**: [ConsumeWise on PythonAnywhere](https://consumewiseai.pythonanywhere.com)
+🌐 **Live App**: [ConsumeWise on PythonAnywhere](https://consumewiseai.pythonanywhere.com) (Under maintenance, Sorry for the inconvinience)
 
 ---
 
